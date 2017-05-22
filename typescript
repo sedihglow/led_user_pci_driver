@@ -1,0 +1,14 @@
+Script started on Wed 17 May 2017 08:13:35 AM PDT
+
+root@ece373:/home/linux/usbMount/user_pci_led# ./pciLED.out
+Initial configuration of led ctrl reg: 0x60784
+Good Packets Recieved: 1
+root@ece373:/home/linux/usbMount/user_pci_led# ./pciLED.out
+Initial configuration of led ctrl reg: 0x60784
+Good Packets Recieved: 3
+root@ece373:/home/linux/usbMount/user_pci_led# ./pciLED.out
+Initial configuration of led ctrl reg: 0x60784
+Good Packets Recieved: 1
+root@ece373:/home/linux/usbMount/user_pci_led# exit
+
+Script done on Wed 17 May 2017 08:15:13 AM PDT
